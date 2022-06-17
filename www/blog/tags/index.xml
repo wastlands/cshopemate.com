@@ -1,0 +1,15 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on CShopmate</title>
+		<link>https://cshopmate.com/blog/tags/</link>
+		<description>Recent content in Tags </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>zh-cn</language>
+		
+		<managingEditor>Page(/tags) (Hugo Author)</managingEditor>
+    	
+		<atom:link href="/blog/tags/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

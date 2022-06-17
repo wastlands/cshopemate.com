@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>CShopmate on CShopmate</title>
+		<link>https://cshopmate.com/blog/</link>
+		<description>Recent content in CShopmate </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>zh-cn</language>
+		
+		<managingEditor>Page(&#34;CShopmate&#34;) (Hugo Author)</managingEditor>
+    	
+  		<lastBuildDate>Thu, 06 May 2021 16:20:55 +0800</lastBuildDate>
+		
+		<atom:link href="/blog/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>
